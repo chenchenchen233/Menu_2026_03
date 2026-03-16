@@ -44,4 +44,4 @@ document.querySelectorAll('.menu-btn').forEach(button => {
 //     requestAnimationFrame(animateBackground);
 // }
 
-animateBackground();
+//animateBackground();
